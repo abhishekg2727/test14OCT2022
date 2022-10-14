@@ -1,4 +1,8 @@
 FileC
 Lets change
 002
+<<<<<<< HEAD
 003
+=======
+this is for sqash merge
+>>>>>>> FeattureA
